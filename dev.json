@@ -1,0 +1,8 @@
+{
+  "ownerIDS": ["developeridhere"],
+  "EvalAccess": ["developeridhere"],
+  "BadgeAccess": ["developeridhere"],
+  "NoPrefixAccess": ["developeridhere"],
+  "BlacklistAccess": ["developeridhere"],
+  "PremiumAccess": ["developeridhere"]
+}

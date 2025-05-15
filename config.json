@@ -1,0 +1,25 @@
+{
+  "token": "MTM3MTQ5Mjg5NzY4MTA0NzY5Mw.GXhCOI.lDCBmZbYWPZ1zTI7ssiInLL_OXl5ccs5Z-cqlQ",
+  "mongo": "",
+  "clientId": "1371492897681047693",
+  "guildId": "1370645375207084052",
+  "application_id": "1371492897681047693",
+  "webhook": "",
+  "joinwebhook": "",
+  "webid": "",
+  "webtoken": "",
+  "voice": "1371402942124654642",
+  "nodes": [
+    {
+      "host": "lavalink.razorbot.buzz",
+      "port": 6969,
+      "password": "dsc.gg/razorsupport",
+      "identifier": "Rabbit",
+      "retryAmount": 1000,
+      "retrydelay": 10000,
+      "resumeStatus": true,
+      "resumeTimeout": 1000,
+      "secure": false
+    }
+  ]
+}
